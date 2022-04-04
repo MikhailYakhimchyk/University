@@ -10,11 +10,12 @@ int Factorial(int N)
 	return N * Factorial(N - 1);
 }
 
-void main()
+int main()
 {
 	int Num;
 	cout << "Please input number: ";
 	cin >> Num;
 	cout << "!" << Num << " = ";
 	cout << Factorial(Num) << endl;
+	return 0;
 }
