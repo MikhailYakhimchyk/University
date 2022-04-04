@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\misha\Documents\C++\Rekursja\Rekursja\main.cpp(14,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Rekursja.vcxproj -> C:\Users\misha\Documents\C++\Rekursja\x64\Debug\Rekursja.exe
